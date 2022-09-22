@@ -2,6 +2,10 @@ from sqlalchemy import Column, Integer, MetaData, Table, Text
 from sqlalchemy import create_engine
 from config import DB_URL
 
+"""
+    File to create table in database
+"""
+
 engine = create_engine(DB_URL, echo=False)
 meta = MetaData()
 
