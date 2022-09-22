@@ -1,5 +1,5 @@
 # TestTaskDataOx
-Test task for DataOx, performed by Yakoshchuk Valerii.
+Test task for DataOx to position Junior Python Internship, performed by Yakoshchuk Valerii.
 
 ## To use
 - Clone files on your pc `git clone https://github.com/Pdnky/TestTaskDataOx.git`
